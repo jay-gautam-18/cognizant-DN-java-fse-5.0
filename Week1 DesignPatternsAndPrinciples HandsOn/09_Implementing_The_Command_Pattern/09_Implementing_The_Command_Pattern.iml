@@ -2,8 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../Digital-Nurture-5.0-JavaFSE-7808811/Week1 DesignPatternsAndPrinciples HandsOn/09_Implementing_The_Command_Pattern">
-      <sourceFolder url="file://$MODULE_DIR$/../../../Digital-Nurture-5.0-JavaFSE-7808811/Week1 DesignPatternsAndPrinciples HandsOn/09_Implementing_The_Command_Pattern/Code" isTestSource="false" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Code" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
